@@ -11886,7 +11886,7 @@ W = angled&lt;p&gt;
 <wire x1="-116.84" y1="-22.86" x2="-116.84" y2="78.74" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="-116.84" y1="78.74" x2="-2.54" y2="78.74" width="0.1524" layer="97" style="shortdash"/>
 <text x="-116.84" y="78.74" size="1.778" layer="97">Displays &amp; leds</text>
-<text x="2.54" y="22.86" size="1.778" layer="97">Wheel heaters &amp; termistors</text>
+<text x="2.54" y="22.86" size="1.778" layer="97">Wheel heaters &amp; thermistors</text>
 <wire x1="2.54" y1="22.86" x2="2.54" y2="-22.86" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="2.54" y1="-22.86" x2="127" y2="-22.86" width="0.1524" layer="97" style="shortdash"/>
 <wire x1="127" y1="-22.86" x2="127" y2="22.86" width="0.1524" layer="97" style="shortdash"/>
