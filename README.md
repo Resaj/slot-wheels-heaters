@@ -7,7 +7,7 @@ Each wheel heater carries a thermistor and is composed of an array of 25 resisto
 <img src="images/Wheels heaters.jpg" width="500" align = "center">
 </p>
 
-## Autor
+## Author
 [Rubén Espino San José](https://github.com/Resaj)
 
 ## License
